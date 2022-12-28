@@ -1,0 +1,20 @@
+.Todo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+
+.Todo p {
+    margin-right: auto;
+}
+
+.Todo button {
+    margin-left: 1em;
+    padding: 3px 5px;
+    line-height: 1em;
+    background-color: transparent;
+    border: 1px solid lightsalmon;
+    color: darkolivegreen;
+    border-radius: 3px;
+}

@@ -1,0 +1,24 @@
+.TodosList {
+    max-width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1em auto;
+    padding: 1.5em 1em;
+    border: 1px solid lightsalmon;
+    border-radius: 5px;
+}
+.TodosList-header h2 {
+    margin: 0;
+}
+.TodosList-todos-list {
+    width: 100%;
+}
+
+.TodosList-new-todo {
+    width: 100%;
+}
+.TodosList-new-todo form{
+    width: 100%;
+}
